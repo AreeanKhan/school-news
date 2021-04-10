@@ -3,12 +3,17 @@ body{
 }
 
 #header{
-    top: 0
-;
+    position: relative;
+    top: 0;
     width: 100vw;
-    background-color:rgb(224, 165, 88);
+    height: 182px;
 }
 
+#header-text{
+    position:absolute;
+    top: 0;
+    left: 0;
+}
 
 #navbar{
     width: 100vw;
@@ -26,7 +31,7 @@ body{
 }
 
 #logo{
-    position: sticky;
+    position:absolute;
     top: 0;
-    left: 5000;
+    right: 0;
 }
