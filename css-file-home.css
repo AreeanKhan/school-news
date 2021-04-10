@@ -7,12 +7,17 @@ body{
     background-color:rgb(224, 165, 88);
 }
 
-#nav-bar{
-    color:  rgb(109,40,40);
+
+#navbar{
+    width: 100vw;
+    background-color: rgb(160, 80, 80);
     position: sticky;
     top: 50;
 }
 
+.Text{
+    color:rgb(160, 80, 80)
+}
 #Main-Text{
     width: 100vw;
     font-size: 50px;
