@@ -3,6 +3,8 @@ body{
 }
 
 #header{
+    top: 0
+;
     width: 100vw;
     background-color:rgb(224, 165, 88);
 }
@@ -10,7 +12,7 @@ body{
 
 #navbar{
     width: 100vw;
-    background-color: rgb(160, 80, 80);
+    background-color: rgba(199, 134, 122, 0.527);
     position: sticky;
     top: 50;
 }
@@ -21,4 +23,10 @@ body{
 #Main-Text{
     width: 100vw;
     font-size: 50px;
+}
+
+#logo{
+    position: sticky;
+    top: 0;
+    left: 5000;
 }
