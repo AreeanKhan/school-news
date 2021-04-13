@@ -35,3 +35,7 @@ body{
     top: 0;
     right: 0;
 }
+
+.gal-pics{
+    height: 500px; width: 1000px;
+}
